@@ -1,0 +1,15 @@
+.inputContainer {
+    height: 50px;
+    background-color: rgb(35, 161, 98);
+    color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 11px 13px 11px 11px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font: bold;
+    font-size: 25px;
+    font-family: "Orbitron", sans-serif;
+}

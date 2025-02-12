@@ -1,0 +1,28 @@
+.button-container {
+    height: 55px;
+    flex: 1 1; /*el ancho de los botones se va a distribuir de forma pareja con los que hayan*/
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: "Orbitron",sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(126, 180, 250);
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 5px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.button-container:hover{
+  background-color: rgb(159, 195, 243);
+}
+
+.operator {
+  background-color: rgb(230, 233, 46);
+}
+
+.operator:hover{
+  background-color: rgb(244, 247, 83);
+}
