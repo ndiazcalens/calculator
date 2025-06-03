@@ -1,8 +1,29 @@
-# Getting Started with Create React App
+# 🧮 Web Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple web-based calculator application built with **React**, **JavaScript**, **HTML**, and **CSS**. It demonstrates fundamental front-end development concepts including **state management**, **event handling**, and **basic arithmetic logic** to create an interactive and functional user interface.
 
-## Available Scripts
+---
+
+## ✨ Features
+
+* **Basic Arithmetic Operations:** Performs addition, subtraction, multiplication, and division.
+* **Clear Button:** Resets the calculator display.
+* **Intuitive UI:** A clean and straightforward user interface, mimicking a standard calculator.
+* **(Optional) Input Validation:** (Add if your calculator handles invalid inputs, e.g., division by zero).
+* **(Optional) Keyboard Support:** (Add if users can input numbers and operations using their keyboard).
+
+---
+
+## 🛠️ Technologies Used
+
+* **React:** Frontend JavaScript library for building component-based user interfaces.
+* **JavaScript (ES6+):** Core logic for calculations and interactivity.
+* **HTML5:** Structure of the calculator interface.
+* **CSS3:** Styling and layout, ensuring a visually appealing design.
+
+---
+
+## ⚙️ Available Scripts
 
 In the project directory, you can run:
 
@@ -29,42 +50,29 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📚 Learn More
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more about Create React App in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
 
-### Analyzing the Bundle Size
+Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue or submit a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📄 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📫 Contact
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* **Email:** ndiazcalens@gmail.com
+* **LinkedIn:** [Nicolás Díaz Calens](www.linkedin.com/in/nicolás-diaz-calens)
