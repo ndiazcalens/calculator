@@ -60,12 +60,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you find a bug or have a feature suggestion, please open an issue or submit a pull request.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
